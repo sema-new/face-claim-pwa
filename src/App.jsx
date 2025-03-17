@@ -1,14 +1,11 @@
+// react pwa for face claim
 import { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 
 function App() {
     const [faceClaims, setFaceClaims] = useState([]);
-    const [newClaim, setNewClaim] = useState({
-        full_name: "",
-        most_known_for: "",
-        image_url: ""
-    });
 
-    // Load face claims from Local Storage
+    // Load saved face claims from Local Storage
     useEffect(() => {
         const savedClaims = localStorage.getItem("faceClaims");
         if (savedClaims) {
@@ -16,47 +13,37 @@ function App() {
         }
     }, []);
 
-    // Handle input changes
-    const handleChange = (e) => {
-        setNewClaim({ ...newClaim, [e.target.name]: e.target.value });
-    };
-
-    // Function to add a new face claim
-    const handleSubmit = (e) => {
-        e.preventDefault();
-        const updatedClaims = [...faceClaims, newClaim];
+    // Function to delete a face claim
+    const deleteFaceClaim = (index) => {
+        const updatedClaims = [...faceClaims];
+        updatedClaims.splice(index, 1);
         setFaceClaims(updatedClaims);
         localStorage.setItem("faceClaims", JSON.stringify(updatedClaims));
-
-        // Reset form
-        setNewClaim({ full_name: "", most_known_for: "", image_url: "" });
     };
 
     return (
-        <div style={{ padding: "20px", fontFamily: "Arial, sans-serif" }}>
-            <h1>Face Claim Database (Local)</h1>
+        <div style={{ padding: "20px", fontFamily: "Arial, sans-serif", textAlign: "center" }}>
+            <h1>Face Claim Database</h1>
 
-            {/* Add Face Claim Form */}
-            <h2>Add a New Face Claim</h2>
-            <form onSubmit={handleSubmit} style={{ display: "flex", flexDirection: "column", maxWidth: "400px" }}>
-                <input type="text" name="full_name" placeholder="Full Name" value={newClaim.full_name} onChange={handleChange} required />
-                <input type="text" name="most_known_for" placeholder="Most Known For" value={newClaim.most_known_for} onChange={handleChange} required />
-                <input type="text" name="image_url" placeholder="Image URL" value={newClaim.image_url} onChange={handleChange} />
-                <button type="submit" style={{ marginTop: "10px", padding: "10px", backgroundColor: "#007bff", color: "white", border: "none", cursor: "pointer" }}>
-                    Add Face Claim
+            {/* Add Face Claim Button */}
+            <Link to="/add">
+                <button style={{ padding: "10px", backgroundColor: "#007bff", color: "white", border: "none", cursor: "pointer" }}>
+                    + Add Face Claim
                 </button>
-            </form>
+            </Link>
 
-            {/* Display Face Claims */}
-            <h2>Current Face Claims</h2>
-            <ul style={{ listStyle: "none", padding: 0 }}>
+            {/* Horizontal Scrollable Face Claims List */}
+            <div style={{ overflowX: "auto", whiteSpace: "nowrap", marginTop: "20px" }}>
                 {faceClaims.map((claim, index) => (
-                    <li key={index} style={{ marginBottom: "15px", borderBottom: "1px solid #ddd", paddingBottom: "10px" }}>
+                    <div key={index} style={{ display: "inline-block", width: "150px", margin: "10px" }}>
                         <img src={claim.image_url} alt={claim.full_name} width="100" style={{ borderRadius: "5px" }} />
-                        <p><strong>{claim.full_name}</strong> - {claim.most_known_for}</p>
-                    </li>
+                        <p><strong>{claim.full_name}</strong></p>
+                        <button onClick={() => deleteFaceClaim(index)} style={{ backgroundColor: "red", color: "white", border: "none", cursor: "pointer", marginTop: "5px" }}>
+                            Delete
+                        </button>
+                    </div>
                 ))}
-            </ul>
+            </div>
         </div>
     );
 }
