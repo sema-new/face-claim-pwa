@@ -4,10 +4,14 @@ import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 
 function App() {
-    const { signIn, loadJSONFromDrive, uploadJSONToDrive } = useGoogleDrive();
+    //const { signIn, loadJSONFromDrive, uploadJSONToDrive } = useGoogleDrive();
     const [faceClaims, setFaceClaims] = useState([]);
     const [selectedClaim, setSelectedClaim] = useState(null);
     const fileId = "1G4kzMSfQxgYe5xJ9bd7rRjNPcv0llciJ";
+
+    useEffect(() => {
+        fetchData();
+    }, []);
 
     const fetchData = async () => {
         const response = await fetch('https://drive.google.com/uc?export=download&id=1G4kzMSfQxgYe5xJ9bd7rRjNPcv0llciJ');
