@@ -1,0 +1,24 @@
+[
+  {
+    "full_name": "Austin Robert Butler",
+    "stage_name": "Austin Butler",
+    "height_cm": 183,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://drive.google.com/file/d/1V773Y3hdHN6JUnQ0TfSXXncQ6K1FlJ0d/view?usp=drive_link",
+    "dob": "1991-08-17",
+    "place_of_birth": "Anaheim, California, USA",
+    "most_known_for": "Elvis (2022)",
+    "tags": "American, Actor, Blonde, Tall, Blue Eyes"
+  },
+  {
+    "full_name": "Bill Istvan Günther Skarsgård",
+    "stage_name": "Bill Skarsgård",
+    "height_cm": 192,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://drive.google.com/file/d/111ZDl_iBiiUpoqAcy39U9cIgbWKgp-W2/view?usp=drive_link",
+    "dob": "1990-08-09",
+    "place_of_birth": "Vällingby, Stockholm, Sweden",
+    "most_known_for": "IT (2017) - Pennywise",
+    "tags": "Swedish, Actor, Tall, Horror, Pennywise"
+  }
+]
