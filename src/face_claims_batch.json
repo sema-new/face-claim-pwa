@@ -1,0 +1,35 @@
+[
+  {
+    "full_name": "Zackary Arthur",
+    "stage_name": "Zackary Arthur",
+    "height_cm": 170,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Zackary_Arthur_2019.jpg",
+    "dob": "2006-09-12",
+    "place_of_birth": "Los Angeles, California, USA",
+    "most_known_for": "Chucky (TV Series)",
+    "tags": "American, Actor, Horror, TV, Brown Hair"
+  },
+  {
+    "full_name": "Dustin Wallace Milligan",
+    "stage_name": "Dustin Milligan",
+    "height_cm": 180,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Dustin_Milligan.jpg",
+    "dob": "1985-07-28",
+    "place_of_birth": "Yellowknife, Northwest Territories, Canada",
+    "most_known_for": "Schitt's Creek, 90210",
+    "tags": "Canadian, Actor, Comedy, Brown Hair"
+  },
+  {
+    "full_name": "Tye Kayle Sheridan",
+    "stage_name": "Tye Sheridan",
+    "height_cm": 173,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Tye_Sheridan_2017.jpg",
+    "dob": "1996-11-11",
+    "place_of_birth": "Elkhart, Texas, USA",
+    "most_known_for": "Ready Player One, X-Men series (Cyclops)",
+    "tags": "American, Actor, Sci-Fi, Superhero, Brown Hair"
+  }
+]
