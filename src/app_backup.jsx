@@ -1,3 +1,4 @@
+// react pwa for face claim
 import { useGoogleDrive } from './useGoogleDrive';
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
@@ -16,63 +17,39 @@ function App() {
   const [sortOption, setSortOption] = useState(""); // state for sort option  
   const [searchQuery, setSearchQuery] = useState(""); // state for search query
 
+
   // google drive connection for json file
   const { signIn, loadJSONFromDrive, gapiReady } = useGoogleDrive();
   const fileId = "1G4kzMSfQxgYe5xJ9bd7rRjNPcv0llciJ"; // Your Drive file ID
 
   const hairColors = [...new Set(faceClaims.map(claim => claim.hair_color))];
 
-  // tags filtering
-  const allTags = [...new Set(
-    faceClaims.flatMap(claim => claim.tags.split(',').map(tag => tag.trim()))
-  )];
-
   // combined claims
   const combinedClaims = [...pinnedClaims, ...faceClaims.filter(
     claim => !pinnedClaims.some(pinned => pinned.full_name === claim.full_name)
   )];
 
-  // Apply filters and sorting
-  const applyFiltersAndSorting = () => {
-    // Apply tag and hair-based filters
-    let filtered = combinedClaims.filter((claim) => {
-      const tagMatch = selectedTags.length === 0 || selectedTags.every(tag =>
-        claim.tags.toLowerCase().includes(tag.toLowerCase())
-      );
-      const hairMatch = hairFilter === "" || claim.hair_color.toLowerCase() === hairFilter.toLowerCase();
-      return tagMatch && hairMatch;
-    });
+  // Combined tag + hair filtering logic
+  const filteredClaims = combinedClaims.filter((claim) => {
+    const tagMatch = selectedTags.length === 0 || selectedTags.every(tag =>
+      claim.tags.toLowerCase().includes(tag.toLowerCase())
+    );
+    const hairMatch = hairFilter === "" || claim.hair_color.toLowerCase() === hairFilter.toLowerCase();
+    return tagMatch && hairMatch;
+  });
 
-    // Apply search filter
-    if (searchQuery) {
-      const lowerCaseQuery = searchQuery.toLowerCase();
-      filtered = filtered.filter(claim => {
-        return (
-          claim.stage_name.toLowerCase().includes(lowerCaseQuery) ||
-          claim.hair_color.toLowerCase().includes(lowerCaseQuery) ||
-          claim.tags.toLowerCase().includes(lowerCaseQuery)
-        );
-      });
+  // tags filtering
+  const allTags = [...new Set(
+    faceClaims.flatMap(claim => claim.tags.split(',').map(tag => tag.trim()))
+  )];
+
+  // Convert G Drive URls - Is not used
+  const convertDriveUrl = (url) => {
+    const match = url.match(/\/file\/d\/([a-zA-Z0-9_-]+)\//);
+    if (match && match[1]) {
+      return `https://drive.google.com/uc?export=view&id=${match[1]}`;
     }
-
-    // Apply sorting
-    if (sortOption) {
-      if (sortOption === 'age') {
-        filtered.sort((a, b) => new Date(a.dob) - new Date(b.dob)); // Youngest first
-      } else if (sortOption === 'age-desc') {
-        filtered.sort((a, b) => new Date(b.dob) - new Date(a.dob)); // Oldest first
-      } else if (sortOption === 'height') {
-        filtered.sort((a, b) => a.height_cm - b.height_cm); // Shortest first
-      } else if (sortOption === 'height-desc') {
-        filtered.sort((a, b) => b.height_cm - a.height_cm); // Tallest first
-      } else if (sortOption === 'name-asc') {
-        filtered.sort((a, b) => a.stage_name.localeCompare(b.stage_name)); // A-Z
-      } else if (sortOption === 'name-desc') {
-        filtered.sort((a, b) => b.stage_name.localeCompare(a.stage_name)); // Z-A
-      }
-    }
-
-    setSortedClaims(filtered);
+    return url; // Fallback for non-Google links
   };
 
   const fetchData = async () => {
@@ -99,7 +76,24 @@ function App() {
   };
 
   const handleSort = (option) => {
+    let sorted = [...claims];
+
+    if (option === 'age') {
+      sorted.sort((a, b) => new Date(a.dob) - new Date(b.dob)); // Youngest first
+    } else if (option === 'age-desc') {
+      sorted.sort((a, b) => new Date(b.dob) - new Date(a.dob)); // Oldest first
+    } else if (option === 'height') {
+      sorted.sort((a, b) => a.height_cm - b.height_cm); // Shortest first
+    } else if (option === 'height-desc') {
+      sorted.sort((a, b) => b.height_cm - a.height_cm); // Tallest first
+    } else if (option === 'name-asc') {
+      sorted.sort((a, b) => a.stage_name.localeCompare(b.stage_name)); // A-Z
+    } else if (option === 'name-desc') {
+      sorted.sort((a, b) => b.stage_name.localeCompare(a.stage_name)); // Z-A
+    }
+
     setSortOption(option);
+    setSortedClaims(sorted);
   };
 
   // Age calculation function
@@ -115,7 +109,15 @@ function App() {
   };
 
   const handleSearch = (query) => {
-    setSearchQuery(query);
+    const lowerCaseQuery = query.toLowerCase();
+    const filtered = claims.filter(claim => {
+      return (
+        claim.stage_name.toLowerCase().includes(lowerCaseQuery) ||
+        claim.hair_color.toLowerCase().includes(lowerCaseQuery) ||
+        claim.tags.toLowerCase().includes(lowerCaseQuery)
+      );
+    });
+    setSortedClaims(filtered);
   };
 
   // Auto-load data when GAPI is ready
@@ -133,10 +135,6 @@ function App() {
     localStorage.setItem('pinnedClaims', JSON.stringify(pinnedClaims));
   }, [pinnedClaims]);
 
-  // Apply filters and sorting whenever relevant states change
-  useEffect(() => {
-    applyFiltersAndSorting();
-  }, [faceClaims, pinnedClaims, selectedTags, hairFilter, searchQuery, sortOption]);
 
   // UI - Hamburger Menu
   return (
@@ -231,7 +229,7 @@ function App() {
             <button onClick={() => handleSort('height-desc')}>Sort by Height (Tallest)</button>
             <button onClick={() => handleSort('name-asc')}>Sort by Stage Name (A-Z)</button>
             <button onClick={() => handleSort('name-desc')}>Sort by Stage Name (Z-A)</button>
-            <button onClick={() => setSortOption("")}>Reset</button>
+            <button onClick={() => setSortedClaims(claims)}>Reset</button>
           </div>
 
           <div className="face-claims-container">
@@ -298,13 +296,13 @@ function App() {
         whiteSpace: "nowrap",
         marginTop: "20px"
       }}>
-        {sortedClaims.map((claim, index) => {
-          //const imgUrl = convertDriveUrl(claim.bookmark_image_url);
+        {sortedClaims.map((claim, index) => {  // was filetedClaims
+          const imgUrl = convertDriveUrl(claim.bookmark_image_url);
           return (
             <div key={index} style={{ display: "inline-block", textAlign: "center" }}>
               <img
                 key={index}
-                src={claim.bookmark_image_url}
+                src={imgUrl}
                 alt={claim.full_name}
                 style={{
                   height: "85vh",
