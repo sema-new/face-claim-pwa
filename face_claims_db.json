@@ -8,7 +8,7 @@
     "dob": "1991-08-17",
     "place_of_birth": "Anaheim, California, USA",
     "most_known_for": "Elvis (2022)",
-    "tags": "American, Actor, Blonde, Tall, Blue Eyes"
+    "tags": "American, Actor, Blonde, Tall, Blue Eyes, musician, bad_boy, rebel"
   },
   {
     "full_name": "Bill Istvan Günther Skarsgård",
@@ -19,7 +19,7 @@
     "dob": "1990-08-09",
     "place_of_birth": "Vällingby, Stockholm, Sweden",
     "most_known_for": "IT (2017) - Pennywise",
-    "tags": "Swedish, Actor, Tall, Horror, Pennywise"
+    "tags": "Swedish, Actor, Tall, Horror, Pennywise, mysterious, villain"
   },
   {
     "full_name": "Adam DiMarco",
@@ -30,7 +30,7 @@
     "dob": "1984-04-14",
     "place_of_birth": "Oakville, Ontario, Canada",
     "most_known_for": "The Magicians",
-    "tags": "Canadian, Actor, Musician"
+    "tags": "Canadian, Actor, Musician, academic_crush, sweet_talker, best_friend"
   },
   {
     "full_name": "Adam Kodra",
@@ -41,7 +41,7 @@
     "dob": "1990-06-21",
     "place_of_birth": "Brooklyn, New York, USA",
     "most_known_for": "Below Deck Down Under",
-    "tags": "American, Reality TV Star, Deckhand"
+    "tags": "American, Reality TV Star, Deckhand, surfer_boy, golden_retriever"
   },
   {
     "full_name": "Aaron Fredrick Mitchell Jr.",
@@ -52,7 +52,7 @@
     "dob": "2001-05-17",
     "place_of_birth": "Belleville, Illinois, USA",
     "most_known_for": "Used to Be",
-    "tags": "American, Singer, Songwriter"
+    "tags": "American, Singer, Songwriter, musician, sweet_talker, golden_retriever"
   },
   {
     "full_name": "Alexander Richard Pettyfer",
@@ -63,7 +63,7 @@
     "dob": "1990-04-10",
     "place_of_birth": "Stevenage, Hertfordshire, England",
     "most_known_for": "I Am Number Four",
-    "tags": "British, Actor, Model"
+    "tags": "British, Actor, Model, bad_boy, jock, prince_charming"
   },
   {
     "full_name": "Ansel Elgort",
@@ -74,7 +74,7 @@
     "dob": "1994-03-14",
     "place_of_birth": "New York City, New York, USA",
     "most_known_for": "The Fault in Our Stars",
-    "tags": "American, Actor, Singer"
+    "tags": "American, Actor, Singer, golden_retriever, sweet_talker, academic_crush"
   },
   {
     "full_name": "Archie James Beale",
@@ -85,7 +85,7 @@
     "dob": "1997-11-22",
     "place_of_birth": "Kingston upon Thames, England",
     "most_known_for": "Shadow and Bone",
-    "tags": "British, Actor, Model"
+    "tags": "British, Actor, Model, prince_charming, grumpy_boss"
   },
   {
     "full_name": "Armand Douglas Hammer",
@@ -96,7 +96,7 @@
     "dob": "1986-08-28",
     "place_of_birth": "Santa Monica, California, USA",
     "most_known_for": "Call Me by Your Name",
-    "tags": "American, Actor"
+    "tags": "American, Actor, billionaire, grumpy_boss, bodyguard"
   },
   {
     "full_name": "Brenton Thwaites",
@@ -107,9 +107,9 @@
     "dob": "1989-08-10",
     "place_of_birth": "Cairns, Queensland, Australia",
     "most_known_for": "Pirates of the Caribbean: Dead Men Tell No Tales",
-    "tags": "Australian, Actor"
+    "tags": "Australian, Actor, surfer_boy, bad_boy, rebel"
   },
-  {
+   {
     "full_name": "Cameron Riley Monaghan",
     "stage_name": "Cameron Monaghan",
     "height_cm": 182,
@@ -118,7 +118,7 @@
     "dob": "1993-08-16",
     "place_of_birth": "Santa Monica, California, USA",
     "most_known_for": "Shameless",
-    "tags": "American, Actor, Model"
+    "tags": "American, Actor, Model, bad_boy, mysterious, rebel"
   },
   {
     "full_name": "Jacob Elordi",
@@ -129,7 +129,7 @@
     "dob": "1997-06-26",
     "place_of_birth": "Brisbane, Queensland, Australia",
     "most_known_for": "Euphoria",
-    "tags": "Australian, Actor"
+    "tags": "Australian, Actor, bad_boy, mysterious, billionaire, surfer_boy"
   },
   {
     "full_name": "Benjamin Hardy",
@@ -140,7 +140,7 @@
     "dob": "1991-01-02",
     "place_of_birth": "Bournemouth, England",
     "most_known_for": "Bohemian Rhapsody",
-    "tags": "British, Actor, Blonde"
+    "tags": "British, Actor, Blonde, musician, sweet_talker, prince_charming"
   },
   {
     "full_name": "Nicholas Dimitri Constantine Galitzine",
@@ -151,9 +151,9 @@
     "dob": "1994-09-29",
     "place_of_birth": "London, England",
     "most_known_for": "Cinderella",
-    "tags": "British, Actor, Musician"
+    "tags": "British, Actor, Musician, prince_charming, sweet_talker"
   },
-    {
+  {
     "full_name": "Lars Edvin Folke Ryding",
     "stage_name": "Edvin Ryding",
     "height_cm": 178,
@@ -162,7 +162,7 @@
     "dob": "2003-02-04",
     "place_of_birth": "Stockholm, Sweden",
     "most_known_for": "Young Royals",
-    "tags": "Swedish, Actor, Blonde"
+    "tags": "Swedish, Actor, Blonde, royal, best_friend, academic_crush"
   },
   {
     "full_name": "Thomas Elms",
@@ -173,7 +173,7 @@
     "dob": "1996-09-15",
     "place_of_birth": "Canada",
     "most_known_for": "The Order",
-    "tags": "Canadian, Actor"
+    "tags": "Canadian, Actor, mysterious, artist, academic_crush"
   },
   {
     "full_name": "Shawn Peter Raul Mendes",
@@ -184,7 +184,7 @@
     "dob": "1998-08-08",
     "place_of_birth": "Pickering, Ontario, Canada",
     "most_known_for": "Stitches",
-    "tags": "Canadian, Singer, Songwriter"
+    "tags": "Canadian, Singer, Songwriter, musician, golden_retriever, sweet_talker"
   },
   {
     "full_name": "Theodore Peter James Kinnaird Taptiklis",
@@ -195,7 +195,7 @@
     "dob": "1984-12-16",
     "place_of_birth": "High Wycombe, England",
     "most_known_for": "Divergent",
-    "tags": "British, Actor"
+    "tags": "British, Actor, grumpy_boss, bodyguard, protective"
   },
   {
     "full_name": "Taron David Egerton",
@@ -206,7 +206,7 @@
     "dob": "1989-11-10",
     "place_of_birth": "Birkenhead, England",
     "most_known_for": "Kingsman: The Secret Service",
-    "tags": "British, Actor, Singer"
+    "tags": "British, Actor, Singer, bad_boy, rebel, sweet_talker"
   },
   {
     "full_name": "Matthew Quincy Daddario",
@@ -217,7 +217,7 @@
     "dob": "1987-10-01",
     "place_of_birth": "New York City, New York, USA",
     "most_known_for": "Shadowhunters",
-    "tags": "American, Actor"
+    "tags": "American, Actor, protective, bodyguard, grumpy_boss"
   },
   {
     "full_name": "Jared Scott",
@@ -228,7 +228,7 @@
     "dob": "1996-01-01",
     "place_of_birth": "USA",
     "most_known_for": "Before the Dawn",
-    "tags": "American, Actor"
+    "tags": "American, Actor, boy_next_door, academic_crush"
   },
   {
     "full_name": "Tyler Garcia Posey",
@@ -239,7 +239,7 @@
     "dob": "1991-10-18",
     "place_of_birth": "Santa Monica, California, USA",
     "most_known_for": "Teen Wolf",
-    "tags": "American, Actor, Musician"
+    "tags": "American, Actor, Musician, jock, bad_boy, rebel"
   },
   {
     "full_name": "Nicholas John Robinson",
@@ -250,7 +250,7 @@
     "dob": "1995-03-22",
     "place_of_birth": "Seattle, Washington, USA",
     "most_known_for": "Love, Simon",
-    "tags": "American, Actor"
+    "tags": "American, Actor, boy_next_door, academic_crush, golden_retriever"
   },
   {
     "full_name": "Richard Madden",
@@ -261,7 +261,7 @@
     "dob": "1986-06-18",
     "place_of_birth": "Elderslie, Scotland",
     "most_known_for": "Game of Thrones",
-    "tags": "Scottish, Actor"
+    "tags": "Scottish, Actor, bodyguard, grumpy_boss, protective"
   },
   {
     "full_name": "Matthew Cornett",
@@ -272,7 +272,7 @@
     "dob": "1998-10-06",
     "place_of_birth": "Rogers, Arkansas, USA",
     "most_known_for": "High School Musical: The Musical: The Series",
-    "tags": "American, Actor, Singer"
+    "tags": "American, Actor, Singer, jock, golden_retriever, theater_kid"
   },
   {
     "full_name": "Noah Gregory Centineo",
@@ -283,7 +283,7 @@
     "dob": "1996-05-09",
     "place_of_birth": "Miami, Florida, USA",
     "most_known_for": "To All the Boys I've Loved Before",
-    "tags": "American, Actor"
+    "tags": "American, Actor, golden_retriever, boy_next_door, best_friend"
   },
   {
     "full_name": "Malte Myrenberg Gårdinger",
@@ -294,361 +294,361 @@
     "dob": "2000-07-23",
     "place_of_birth": "Sweden",
     "most_known_for": "Young Royals",
-    "tags": "Swedish, Actor"
+    "tags": "Swedish, Actor, royal, mysterious, brooding"
   },
   {
-  "full_name": "Jake Andrich",
-  "stage_name": "Jake Andrich",
-  "height_cm": 180,
-  "hair_color": "Black",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/dswbzc396opumxapac732/Jake-Andrich.png?rlkey=rkdk83eys1xx31a6cdahhjy4e&st=tihls178&raw=1",
-  "dob": "1996-11-07",
-  "place_of_birth": "Alberta, Canada",
-  "most_known_for": "TikTok, OnlyFans, Model and Fitness Influencer",
-  "tags": "Canadian, Influencer, TikTok, Model, Fitness, Tattooed"
+    "full_name": "Jake Andrich",
+    "stage_name": "Jake Andrich",
+    "height_cm": 180,
+    "hair_color": "Black",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/dswbzc396opumxapac732/Jake-Andrich.png?rlkey=rkdk83eys1xx31a6cdahhjy4e&st=tihls178&raw=1",
+    "dob": "1996-11-07",
+    "place_of_birth": "Alberta, Canada",
+    "most_known_for": "TikTok, OnlyFans, Model and Fitness Influencer",
+    "tags": "Canadian, Influencer, TikTok, Model, Fitness, Tattooed, bad_boy, billionaire"
   },
   {
-  "full_name": "Lucas Daniel Till",
-  "stage_name": "Lucas Till",
-  "height_cm": 178,
-  "hair_color": "Blonde",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/lehgd3i3l8c4cosqkqxc3/Lucas-Till.png?rlkey=wzdief2073hs0xuloh6g0habs&st=0ei072tq&raw=1",
-  "dob": "1990-08-10",
-  "place_of_birth": "Fort Hood, Texas, USA",
-  "most_known_for": "MacGyver (2016 TV Series), X-Men: First Class",
-  "tags": "American, Actor, Blonde, Action, TV Star"
-},
+    "full_name": "Lucas Daniel Till",
+    "stage_name": "Lucas Till",
+    "height_cm": 178,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/lehgd3i3l8c4cosqkqxc3/Lucas-Till.png?rlkey=wzdief2073hs0xuloh6g0habs&st=0ei072tq&raw=1",
+    "dob": "1990-08-10",
+    "place_of_birth": "Fort Hood, Texas, USA",
+    "most_known_for": "MacGyver (2016 TV Series), X-Men: First Class",
+    "tags": "American, Actor, Blonde, action_hero, jock, protective"
+  },
+  {
+    "full_name": "Peter Michael Davidson",
+    "stage_name": "Pete Davidson",
+    "height_cm": 190,
+    "hair_color": "Dark Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/1fbdzwmrkq750rt04uwwy/Pete-Davidson.png?rlkey=8nh6jvs0sqblxbz0goadkoa6q&st=8ke5l665&raw=1",
+    "dob": "1993-11-16",
+    "place_of_birth": "Staten Island, New York, USA",
+    "most_known_for": "Saturday Night Live (SNL), The King of Staten Island",
+    "tags": "American, Comedian, Actor, SNL, Stand-up, Tattooed, bad_boy, tortured_artist"
+  },
+  {
+    "full_name": "Zack Cox",
+    "stage_name": "Zack Cox",
+    "height_cm": 185,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/t6ikmit32v9fp9yoeouxx/Photo-19-3-2025-1-52-46-pm-8.png?rlkey=7knjcs3l2icfnaapzp2h8t8kg&st=qmiw5u2n&raw=1",
+    "dob": "1997-01-28",
+    "place_of_birth": "USA",
+    "most_known_for": "TikTok Fitness Content, Instagram Modeling",
+    "tags": "American, Influencer, Model, Fitness, TikTok, Instagram, surfer_boy, golden_retriever"
+  },
+  {
+    "full_name": "William Gregory Magnussen",
+    "stage_name": "Billy Magnussen",
+    "height_cm": 180,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/ps0mf2mheuypt0wc3xyhv/Photo-19-3-2025-1-52-46-pm-11.png?rlkey=k4bh1jxzm9iib3qo1960yn8zr&st=dcmiyfrp&raw=1",
+    "dob": "1985-04-20",
+    "place_of_birth": "Woodhaven, Queens, New York, USA",
+    "most_known_for": "Into the Woods, Game Night, No Time To Die",
+    "tags": "American, Actor, Broadway, Comedy, Blonde, James Bond, best_friend, comedic_relief"
+  },
+  {
+    "full_name": "David John Franco",
+    "stage_name": "Dave Franco",
+    "height_cm": 170,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/nxh0l8etf7ekcwkixi6hm/Photo-19-3-2025-1-52-46-pm-17.png?rlkey=syac2szxfw08ktyeqn5ng06hf&st=2hcj8a3i&raw=1",
+    "dob": "1985-06-12",
+    "place_of_birth": "Palo Alto, California, USA",
+    "most_known_for": "Now You See Me, Neighbors, The Disaster Artist",
+    "tags": "American, Actor, Director, Comedy, Blonde Hair, boy_next_door, golden_retriever"
+  },
+  {
+    "full_name": "Sean Gregory Grandillo",
+    "stage_name": "Sean Grandillo",
+    "height_cm": 183,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/nxhqhg32l22hjxq02midm/Photo-19-3-2025-1-52-46-pm-18.png?rlkey=kv1f4wcw1h8wc887u2lh3hpec&st=dxdfuoi1&raw=1",
+    "dob": "1992-12-09",
+    "place_of_birth": "Cleveland, Ohio, USA",
+    "most_known_for": "Scream (TV Series), The OA, Broadway's Spring Awakening",
+    "tags": "American, Actor, Musician, Broadway, TV, Blonde Hair, artsy, musician, tortured_artist"
+  },
+  {
+    "full_name": "Christopher Robert Evans",
+    "stage_name": "Chris Evans",
+    "height_cm": 183,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/hpya9vfckg577ezhlvsvv/Photo-19-3-2025-1-52-46-pm-20-1.png?rlkey=rpfn47emyag5rmg7gmtn9yvxu&st=ohdxk2bi&raw=1",
+    "dob": "1981-06-13",
+    "place_of_birth": "Boston, Massachusetts, USA",
+    "most_known_for": "Captain America (Marvel Cinematic Universe), Knives Out",
+    "tags": "American, Actor, Marvel, Captain America, Superhero, Blonde Hair, protector, grumpy_boss, bodyguard"
+  },
+  {
+    "full_name": "Hero Beauregard Faulkner Fiennes Tiffin",
+    "stage_name": "Hero Fiennes Tiffin",
+    "height_cm": 188,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/zhspii5cfpzxi7jwcqrox/Photo-19-3-2025-1-52-46-pm-20.png?rlkey=css0gjmbjauaqktaugqh6qnaj&st=55cgqw27&raw=1",
+    "dob": "1997-11-06",
+    "place_of_birth": "London, England, UK",
+    "most_known_for": "After film series, Harry Potter and the Half-Blood Prince (Young Tom Riddle)",
+    "tags": "British, Actor, Model, After Series, Romance, Brown Hair, bad_boy, tortured_artist"
+  },
+  {
+    "full_name": "Jace Lee Norman",
+    "stage_name": "Jace Norman",
+    "height_cm": 180,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/icoc37glh30p2vvzhbdfp/Photo-19-3-2025-1-52-46-pm-23.png?rlkey=q04cu6fxs6s5lu3gztur4gjdg&st=fotumbki&raw=1",
+    "dob": "2000-03-21",
+    "place_of_birth": "Corrales, New Mexico, USA",
+    "most_known_for": "Henry Danger (Nickelodeon)",
+    "tags": "American, Actor, Nickelodeon, Comedy, Blonde, golden_retriever, class_clown"
+  },
+  {
+    "full_name": "Sebastian Stan",
+    "stage_name": "Sebastian Stan",
+    "height_cm": 183,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/ndda6o3r9ytziff17d8pc/Photo-19-3-2025-1-52-46-pm-35.png?rlkey=qleqla0n1v1cbz3y8ne6lk5zl&st=2656act5&raw=1",
+    "dob": "1982-08-13",
+    "place_of_birth": "Constanța, Romania",
+    "most_known_for": "Marvel's Winter Soldier, Pam & Tommy",
+    "tags": "Romanian-American, Actor, Marvel, Superhero, Drama, brooding, bad_boy, tortured_artist"
+  },
+  {
+    "full_name": "Ross Shor Lynch",
+    "stage_name": "Ross Lynch",
+    "height_cm": 183,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/uli1wxfxm5ttbe0bspjje/Photo-19-3-2025-1-52-46-pm-23-1.png?rlkey=65271l35qoom2kooi4ushqmda&st=5egiz9e8&raw=1",
+    "dob": "1995-12-29",
+    "place_of_birth": "Littleton, Colorado, USA",
+    "most_known_for": "Austin & Ally, Chilling Adventures of Sabrina",
+    "tags": "American, Actor, Singer, Musician, Disney, Netflix, musician, golden_retriever, heartthrob"
+  },
+  {
+    "full_name": "Taylor Zakhar Perez",
+    "stage_name": "Taylor Zakhar Perez",
+    "height_cm": 188,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/5pdwt3at4qvpltynpdkhw/Photo-19-3-2025-1-52-46-pm-22.png?rlkey=iybewr3hn29vvzwaob9sozbte&st=c7o3lvvt&raw=1",
+    "dob": "1991-12-25",
+    "place_of_birth": "Chicago, Illinois, USA",
+    "most_known_for": "The Kissing Booth 2 & 3",
+    "tags": "American, Actor, Netflix, Romance, Brown Hair, golden_retriever, sports_star, romantic_lead"
+  },
+  {
+    "full_name": "Caspar Richard George Lee",
+    "stage_name": "Caspar Lee",
+    "height_cm": 188,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/3katwlr2zf3rikeiy6g3n/Photo-19-3-2025-1-52-46-pm-21.png?rlkey=4okp99catd4y7gy2oltkoptfo&st=8bnbirwj&raw=1",
+    "dob": "1994-04-24",
+    "place_of_birth": "London, England, UK (raised in South Africa)",
+    "most_known_for": "YouTube Personality, Influencer, Launched Proper Living",
+    "tags": "British-South African, YouTuber, Influencer, Entrepreneur, golden_retriever, best_friend"
+  },
+  {
+    "full_name": "Charles Michael Melton",
+    "stage_name": "Charles Melton",
+    "height_cm": 185,
+    "hair_color": "Black",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/erayylwcpwvlagl4edet7/Charles-Melton.png?rlkey=my0d20015klj6u7uh8ffde3y4&st=6x7vrusz&raw=1",
+    "dob": "1991-01-04",
+    "place_of_birth": "Juneau, Alaska, USA",
+    "most_known_for": "Riverdale (Reggie Mantle), The Sun Is Also A Star",
+    "tags": "American, Actor, Korean Descent, Netflix, TV, jock, golden_boy"
+  },
+  {
+    "full_name": "Charlie Taylor",
+    "stage_name": "Charlie Taylor",
+    "height_cm": 183,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/nago8k1i1rx66xvjzpmjv/Photo-19-3-2025-1-52-46-pm-22-1.png?rlkey=bo20mynpi2cumblkgmy9sgeje&st=v80iyhj5&raw=1",
+    "dob": "1995-07-25",
+    "place_of_birth": "Sydney, Australia",
+    "most_known_for": "Love Island Australia Season 1, Professional Rugby Player",
+    "tags": "Australian, Actor, Model, Rugby Player, Reality TV, jock, alpha_male"
+  },
+  {
+    "full_name": "Peyton Graham Meyer",
+    "stage_name": "Peyton Meyer",
+    "height_cm": 183,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/v742qlfayk9kro7id579r/Photo-19-3-2025-1-52-46-pm-24.png?rlkey=5dfyquaqbxyu7ua213o62qkex&st=w61d71h3&raw=1",
+    "dob": "1998-11-24",
+    "place_of_birth": "Las Vegas, Nevada, USA",
+    "most_known_for": "Girl Meets World (Disney Channel), He's All That (Netflix)",
+    "tags": "American, Actor, Disney, Netflix, Comedy, Romance, boy_next_door, golden_retriever"
+  },
+  {
+    "full_name": "Logan Alexander Paul",
+    "stage_name": "Logan Paul",
+    "height_cm": 188,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/ki72g9vowx8i91ln2wp37/Photo-19-3-2025-1-52-46-pm-26.png?rlkey=0gi82adjmzikziawrpk1xahby&st=hj3g8b4w&raw=1",
+    "dob": "1995-04-01",
+    "place_of_birth": "Westlake, Ohio, USA",
+    "most_known_for": "YouTube, Boxing, WWE, Maverick Brand",
+    "tags": "American, Influencer, YouTuber, Boxer, WWE, Actor, Entrepreneur, jock, bad_boy, fame_seeker"
+  },
+  {
+    "full_name": "Cody Allen Christian",
+    "stage_name": "Cody Christian",
+    "height_cm": 178,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/5u0g1mk8dqujrgk664ta1/Photo-19-3-2025-1-52-46-pm-27.png?rlkey=nyz43zocaeinb4s7j0313ctvn&st=9ivgpm0a&raw=1",
+    "dob": "1995-04-15",
+    "place_of_birth": "Portland, Maine, USA",
+    "most_known_for": "Teen Wolf, All American, Pretty Little Liars",
+    "tags": "American, Actor, Teen Wolf, All American, Drama, Brown Hair, jock, tortured_artist"
+  },
+  {
+    "full_name": "Henry William Dalgliesh Cavill",
+    "stage_name": "Henry Cavill",
+    "height_cm": 185,
+    "hair_color": "Dark Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/8aqtrea18nkmmvjo687d6/Photo-19-3-2025-1-52-46-pm-28.png?rlkey=ou8pkg569jtn399j10oc6u7oi&st=nhuusl7i&raw=1",
+    "dob": "1983-05-05",
+    "place_of_birth": "Saint Helier, Jersey, Channel Islands",
+    "most_known_for": "Superman in the DC Extended Universe, The Witcher (Netflix)",
+    "tags": "British, Actor, Superman, The Witcher, Action, Fantasy, Brown Hair, protector, alpha_male, bodyguard"
+  },
+  {
+    "full_name": "Froy Gutierrez",
+    "stage_name": "Froy Gutierrez",
+    "height_cm": 178,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/spptsencw69z5ksmd67kc/Photo-19-3-2025-1-52-46-pm-29.png?rlkey=lavzw20um5nwyzw8n64bdh73y&st=sm7il2rn&raw=1",
+    "dob": "1998-04-27",
+    "place_of_birth": "Dallas, Texas, USA",
+    "most_known_for": "Teen Wolf, Cruel Summer",
+    "tags": "American, Actor, Singer, Teen Wolf, Hulu, Brown Hair, boy_next_door, sweetheart"
+  },
+  {
+    "full_name": "George Sear",
+    "stage_name": "George Sear",
+    "height_cm": 178,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/7drkk0b1uxtgnfssd7xhh/Photo-19-3-2025-1-52-46-pm-30-1.png?rlkey=ctbyxw3kqwzyh7dwrzhdi554i&st=bmq27m68&raw=1",
+    "dob": "1997-11-14",
+    "place_of_birth": "Essex, England, UK",
+    "most_known_for": "Love, Victor (Benji Campbell)",
+    "tags": "British, Actor, Love Victor, LGBTQ+, Hulu, Brown Hair, sensitive_artist, romantic_lead"
+  },
+  {
+    "full_name": "Uriah Shelton",
+    "stage_name": "Uriah Shelton",
+    "height_cm": 175,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/4k6bzhrn5p2x4viyovyua/Photo-19-3-2025-1-52-46-pm-31.png?rlkey=vzj7917gtxhqbfh58xfg1m0bk&st=69ktddoh&raw=1",
+    "dob": "1997-03-10",
+    "place_of_birth": "Dallas, Texas, USA",
+    "most_known_for": "Girl Meets World, 13 Reasons Why, The Glades",
+    "tags": "American, Actor, Singer, Disney, Drama, Brown Hair, boy_next_door, golden_retriever"
+  },
 {
-  "full_name": "Peter Michael Davidson",
-  "stage_name": "Pete Davidson",
-  "height_cm": 190,
-  "hair_color": "Dark Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/1fbdzwmrkq750rt04uwwy/Pete-Davidson.png?rlkey=8nh6jvs0sqblxbz0goadkoa6q&st=8ke5l665&raw=1",
-  "dob": "1993-11-16",
-  "place_of_birth": "Staten Island, New York, USA",
-  "most_known_for": "Saturday Night Live (SNL), The King of Staten Island",
-  "tags": "American, Comedian, Actor, SNL, Stand-up, Tattooed"
-},
-{
-  "full_name": "Zack Cox",
-  "stage_name": "Zack Cox",
-  "height_cm": 185,
-  "hair_color": "Blonde",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/t6ikmit32v9fp9yoeouxx/Photo-19-3-2025-1-52-46-pm-8.png?rlkey=7knjcs3l2icfnaapzp2h8t8kg&st=qmiw5u2n&raw=1",
-  "dob": "1997-01-28",
-  "place_of_birth": "USA",
-  "most_known_for": "TikTok Fitness Content, Instagram Modeling",
-  "tags": "American, Influencer, Model, Fitness, TikTok, Instagram"
-},
-{
-  "full_name": "William Gregory Magnussen",
-  "stage_name": "Billy Magnussen",
-  "height_cm": 180,
-  "hair_color": "Blonde",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/ps0mf2mheuypt0wc3xyhv/Photo-19-3-2025-1-52-46-pm-11.png?rlkey=k4bh1jxzm9iib3qo1960yn8zr&st=dcmiyfrp&raw=1",
-  "dob": "1985-04-20",
-  "place_of_birth": "Woodhaven, Queens, New York, USA",
-  "most_known_for": "Into the Woods, Game Night, No Time To Die",
-  "tags": "American, Actor, Broadway, Comedy, Blonde, James Bond"
-},
-{
-  "full_name": "David John Franco",
-  "stage_name": "Dave Franco",
-  "height_cm": 170,
-  "hair_color": "Blonde",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/nxh0l8etf7ekcwkixi6hm/Photo-19-3-2025-1-52-46-pm-17.png?rlkey=syac2szxfw08ktyeqn5ng06hf&st=2hcj8a3i&raw=1",
-  "dob": "1985-06-12",
-  "place_of_birth": "Palo Alto, California, USA",
-  "most_known_for": "Now You See Me, Neighbors, The Disaster Artist",
-  "tags": "American, Actor, Director, Comedy, Blonde Hair"
-},
-{
-  "full_name": "Sean Gregory Grandillo",
-  "stage_name": "Sean Grandillo",
-  "height_cm": 183,
-  "hair_color": "Blonde",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/nxhqhg32l22hjxq02midm/Photo-19-3-2025-1-52-46-pm-18.png?rlkey=kv1f4wcw1h8wc887u2lh3hpec&st=dxdfuoi1&raw=1",
-  "dob": "1992-12-09",
-  "place_of_birth": "Cleveland, Ohio, USA",
-  "most_known_for": "Scream (TV Series), The OA, Broadway's Spring Awakening",
-  "tags": "American, Actor, Musician, Broadway, TV, Blonde Hair"
-},
-{
-  "full_name": "Christopher Robert Evans",
-  "stage_name": "Chris Evans",
-  "height_cm": 183,
-  "hair_color": "Blonde",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/hpya9vfckg577ezhlvsvv/Photo-19-3-2025-1-52-46-pm-20-1.png?rlkey=rpfn47emyag5rmg7gmtn9yvxu&st=ohdxk2bi&raw=1",
-  "dob": "1981-06-13",
-  "place_of_birth": "Boston, Massachusetts, USA",
-  "most_known_for": "Captain America (Marvel Cinematic Universe), Knives Out",
-  "tags": "American, Actor, Marvel, Captain America, Superhero, Blonde Hair"
-},
-{
-  "full_name": "Hero Beauregard Faulkner Fiennes Tiffin",
-  "stage_name": "Hero Fiennes Tiffin",
-  "height_cm": 188,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/zhspii5cfpzxi7jwcqrox/Photo-19-3-2025-1-52-46-pm-20.png?rlkey=css0gjmbjauaqktaugqh6qnaj&st=55cgqw27&raw=1",
-  "dob": "1997-11-06",
-  "place_of_birth": "London, England, UK",
-  "most_known_for": "After film series, Harry Potter and the Half-Blood Prince (Young Tom Riddle)",
-  "tags": "British, Actor, Model, After Series, Romance, Brown Hair"
-},
-{
-  "full_name": "Jace Lee Norman",
-  "stage_name": "Jace Norman",
-  "height_cm": 180,
-  "hair_color": "Blonde",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/icoc37glh30p2vvzhbdfp/Photo-19-3-2025-1-52-46-pm-23.png?rlkey=q04cu6fxs6s5lu3gztur4gjdg&st=fotumbki&raw=1",
-  "dob": "2000-03-21",
-  "place_of_birth": "Corrales, New Mexico, USA",
-  "most_known_for": "Henry Danger (Nickelodeon)",
-  "tags": "American, Actor, Nickelodeon, Comedy, Blonde"
-},
-{
-  "full_name": "Sebastian Stan",
-  "stage_name": "Sebastian Stan",
-  "height_cm": 183,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/ndda6o3r9ytziff17d8pc/Photo-19-3-2025-1-52-46-pm-35.png?rlkey=qleqla0n1v1cbz3y8ne6lk5zl&st=2656act5&raw=1",
-  "dob": "1982-08-13",
-  "place_of_birth": "Constanța, Romania",
-  "most_known_for": "Marvel's Winter Soldier, Pam & Tommy",
-  "tags": "Romanian-American, Actor, Marvel, Superhero, Drama"
-},
-{
-  "full_name": "Ross Shor Lynch",
-  "stage_name": "Ross Lynch",
-  "height_cm": 183,
-  "hair_color": "Blonde",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/uli1wxfxm5ttbe0bspjje/Photo-19-3-2025-1-52-46-pm-23-1.png?rlkey=65271l35qoom2kooi4ushqmda&st=5egiz9e8&raw=1",
-  "dob": "1995-12-29",
-  "place_of_birth": "Littleton, Colorado, USA",
-  "most_known_for": "Austin & Ally, Chilling Adventures of Sabrina",
-  "tags": "American, Actor, Singer, Musician, Disney, Netflix"
-},
-{
-  "full_name": "Taylor Zakhar Perez",
-  "stage_name": "Taylor Zakhar Perez",
-  "height_cm": 188,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/5pdwt3at4qvpltynpdkhw/Photo-19-3-2025-1-52-46-pm-22.png?rlkey=iybewr3hn29vvzwaob9sozbte&st=c7o3lvvt&raw=1",
-  "dob": "1991-12-25",
-  "place_of_birth": "Chicago, Illinois, USA",
-  "most_known_for": "The Kissing Booth 2 & 3",
-  "tags": "American, Actor, Netflix, Romance, Brown Hair"
-},
-{
-  "full_name": "Caspar Richard George Lee",
-  "stage_name": "Caspar Lee",
-  "height_cm": 188,
-  "hair_color": "Blonde",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/3katwlr2zf3rikeiy6g3n/Photo-19-3-2025-1-52-46-pm-21.png?rlkey=4okp99catd4y7gy2oltkoptfo&st=8bnbirwj&raw=1",
-  "dob": "1994-04-24",
-  "place_of_birth": "London, England, UK (raised in South Africa)",
-  "most_known_for": "YouTube Personality, Influencer, Launched Proper Living",
-  "tags": "British-South African, YouTuber, Influencer, Entrepreneur"
-},
-{
-  "full_name": "Charles Michael Melton",
-  "stage_name": "Charles Melton",
-  "height_cm": 185,
-  "hair_color": "Black",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/erayylwcpwvlagl4edet7/Charles-Melton.png?rlkey=my0d20015klj6u7uh8ffde3y4&st=6x7vrusz&raw=1",
-  "dob": "1991-01-04",
-  "place_of_birth": "Juneau, Alaska, USA",
-  "most_known_for": "Riverdale (Reggie Mantle), The Sun Is Also A Star",
-  "tags": "American, Actor, Korean Descent, Netflix, TV"
-},
-{
-  "full_name": "Charlie Taylor",
-  "stage_name": "Charlie Taylor",
-  "height_cm": 183,
-  "hair_color": "Blonde",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/nago8k1i1rx66xvjzpmjv/Photo-19-3-2025-1-52-46-pm-22-1.png?rlkey=bo20mynpi2cumblkgmy9sgeje&st=v80iyhj5&raw=1",
-  "dob": "1995-07-25",
-  "place_of_birth": "Sydney, Australia",
-  "most_known_for": "Love Island Australia Season 1, Professional Rugby Player",
-  "tags": "Australian, Actor, Model, Rugby Player, Reality TV"
-},
-{
-  "full_name": "Peyton Graham Meyer",
-  "stage_name": "Peyton Meyer",
-  "height_cm": 183,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/v742qlfayk9kro7id579r/Photo-19-3-2025-1-52-46-pm-24.png?rlkey=5dfyquaqbxyu7ua213o62qkex&st=w61d71h3&raw=1",
-  "dob": "1998-11-24",
-  "place_of_birth": "Las Vegas, Nevada, USA",
-  "most_known_for": "Girl Meets World (Disney Channel), He's All That (Netflix)",
-  "tags": "American, Actor, Disney, Netflix, Comedy, Romance"
-},
-{
-  "full_name": "Logan Alexander Paul",
-  "stage_name": "Logan Paul",
-  "height_cm": 188,
-  "hair_color": "Blonde",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/ki72g9vowx8i91ln2wp37/Photo-19-3-2025-1-52-46-pm-26.png?rlkey=0gi82adjmzikziawrpk1xahby&st=hj3g8b4w&raw=1",
-  "dob": "1995-04-01",
-  "place_of_birth": "Westlake, Ohio, USA",
-  "most_known_for": "YouTube, Boxing, WWE, Maverick Brand",
-  "tags": "American, Influencer, YouTuber, Boxer, WWE, Actor, Entrepreneur"
-},
-{
-  "full_name": "Cody Allen Christian",
-  "stage_name": "Cody Christian",
-  "height_cm": 178,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/5u0g1mk8dqujrgk664ta1/Photo-19-3-2025-1-52-46-pm-27.png?rlkey=nyz43zocaeinb4s7j0313ctvn&st=9ivgpm0a&raw=1",
-  "dob": "1995-04-15",
-  "place_of_birth": "Portland, Maine, USA",
-  "most_known_for": "Teen Wolf, All American, Pretty Little Liars",
-  "tags": "American, Actor, Teen Wolf, All American, Drama, Brown Hair"
-},
-{
-  "full_name": "Henry William Dalgliesh Cavill",
-  "stage_name": "Henry Cavill",
-  "height_cm": 185,
-  "hair_color": "Dark Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/8aqtrea18nkmmvjo687d6/Photo-19-3-2025-1-52-46-pm-28.png?rlkey=ou8pkg569jtn399j10oc6u7oi&st=nhuusl7i&raw=1",
-  "dob": "1983-05-05",
-  "place_of_birth": "Saint Helier, Jersey, Channel Islands",
-  "most_known_for": "Superman in the DC Extended Universe, The Witcher (Netflix)",
-  "tags": "British, Actor, Superman, The Witcher, Action, Fantasy, Brown Hair"
-},
-{
-  "full_name": "Froy Gutierrez",
-  "stage_name": "Froy Gutierrez",
-  "height_cm": 178,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/spptsencw69z5ksmd67kc/Photo-19-3-2025-1-52-46-pm-29.png?rlkey=lavzw20um5nwyzw8n64bdh73y&st=sm7il2rn&raw=1",
-  "dob": "1998-04-27",
-  "place_of_birth": "Dallas, Texas, USA",
-  "most_known_for": "Teen Wolf, Cruel Summer",
-  "tags": "American, Actor, Singer, Teen Wolf, Hulu, Brown Hair"
-},
-{
-  "full_name": "George Sear",
-  "stage_name": "George Sear",
-  "height_cm": 178,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/7drkk0b1uxtgnfssd7xhh/Photo-19-3-2025-1-52-46-pm-30-1.png?rlkey=ctbyxw3kqwzyh7dwrzhdi554i&st=bmq27m68&raw=1",
-  "dob": "1997-11-14",
-  "place_of_birth": "Essex, England, UK",
-  "most_known_for": "Love, Victor (Benji Campbell)",
-  "tags": "British, Actor, Love Victor, LGBTQ+, Hulu, Brown Hair"
-},
-{
-  "full_name": "Uriah Shelton",
-  "stage_name": "Uriah Shelton",
-  "height_cm": 175,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/4k6bzhrn5p2x4viyovyua/Photo-19-3-2025-1-52-46-pm-31.png?rlkey=vzj7917gtxhqbfh58xfg1m0bk&st=69ktddoh&raw=1",
-  "dob": "1997-03-10",
-  "place_of_birth": "Dallas, Texas, USA",
-  "most_known_for": "Girl Meets World, 13 Reasons Why, The Glades",
-  "tags": "American, Actor, Singer, Disney, Drama, Brown Hair"
-},
-{
-  "full_name": "Keneti James Fitzgerald Apa",
-  "stage_name": "KJ Apa",
-  "height_cm": 180,
-  "hair_color": "Red",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/mykb8iradz0instkpkugq/KJ-Apa.png?rlkey=q7mh6t3wkjxugx4suzp6b2qjf&st=4r7wtb2m&raw=1",
-  "dob": "1997-06-17",
-  "place_of_birth": "Auckland, New Zealand",
-  "most_known_for": "Riverdale (Archie Andrews)",
-  "tags": "New Zealander, Actor, Riverdale, Netflix, Redhead"
-},
-{
-  "full_name": "Sam Dezz",
-  "stage_name": "Sam Dezz",
-  "height_cm": 185,
-  "hair_color": "Blonde",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/cbl6souyhmf61m0z7dzs3/Sam-Dezz.png?rlkey=gq0eqduczqlhxjlxx8i8oop9q&st=w126tfnn&raw=1",
-  "dob": "2001-12-05",
-  "place_of_birth": "California, USA",
-  "most_known_for": "TikTok, Instagram Modeling",
-  "tags": "American, Influencer, TikTok, Model, Blonde"
-},
-{
-  "full_name": "Harris Dickinson",
-  "stage_name": "Harris Dickinson",
-  "height_cm": 183,
-  "hair_color": "Blonde",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/pb06kbs6xna9l9ssvncvx/Harris-Dickinson.png?rlkey=ldacuw7wf8ao2njtv0jbqniyi&st=g2uwjb4l&raw=1",
-  "dob": "1996-06-24",
-  "place_of_birth": "London, England, UK",
-  "most_known_for": "The King's Man, Triangle of Sadness, Where the Crawdads Sing",
-  "tags": "British, Actor, Drama, Indie, Blonde"
-},
-{
-  "full_name": "Jeremy Allen White",
-  "stage_name": "Jeremy Allen White",
-  "height_cm": 170,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/xiy5dbsk8c64md5nn5pny/Jeremy-Allen-White.png?rlkey=c6q83uctsbulc9rxs6ccevwz3&st=wxb99kcl&raw=1",
-  "dob": "1991-02-17",
-  "place_of_birth": "Brooklyn, New York, USA",
-  "most_known_for": "Shameless (Lip Gallagher), The Bear",
-  "tags": "American, Actor, Drama, Shameless, The Bear, Brown Hair"
-},
-{
-  "full_name": "Dylan Rhodes O'Brien",
-  "stage_name": "Dylan O'Brien",
-  "height_cm": 180,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/5kp4ni5uv53us21bcb9iu/Dylan-Obrien.png?rlkey=ayshktf8s7uni0okbz9v1cqt8&st=oy0tcojd&raw=1",
-  "dob": "1991-08-26",
-  "place_of_birth": "New York City, New York, USA",
-  "most_known_for": "Teen Wolf, The Maze Runner, Love and Monsters",
-  "tags": "American, Actor, Teen Wolf, Action, Brown Hair"
-},
-{
-  "full_name": "Timothée Hal Chalamet",
-  "stage_name": "Timothée Chalamet",
-  "height_cm": 182,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/bolosgbxmltxryae72n3e/Timothee-Chalamet.png?rlkey=lu6y6h61ssgdfl8azemf3fl4b&st=uidp8m7h&raw=1",
-  "dob": "1995-12-27",
-  "place_of_birth": "New York City, New York, USA",
-  "most_known_for": "Call Me by Your Name, Dune, Little Women",
-  "tags": "American, Actor, Drama, Indie, Romance, Brown Hair"
-},
-{
-  "full_name": "Robert Patrick Amell IV",
-  "stage_name": "Robbie Amell",
-  "height_cm": 183,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/g13u4vubbgu47nhh1fd7v/Robbie-Amell.png?rlkey=q9bt72jyu3ngmhogmtjeixydq&st=arlww8jg&raw=1",
-  "dob": "1988-04-21",
-  "place_of_birth": "Toronto, Ontario, Canada",
-  "most_known_for": "The Duff, Upload, The Flash",
-  "tags": "Canadian, Actor, Sci-Fi, Comedy, Brown Hair"
-},
-{
-  "full_name": "Joshua Taylor Bassett",
-  "stage_name": "Joshua Bassett",
-  "height_cm": 180,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/t7ppctatzq19t9l3w85o3/Joshua-Basset.png?rlkey=i81zy4xncaz9ej1arvgnju48e&st=5tm0318b&raw=1",
-  "dob": "2000-12-22",
-  "place_of_birth": "Oceanside, California, USA",
-  "most_known_for": "High School Musical: The Musical: The Series",
-  "tags": "American, Actor, Singer, Disney+, Romance, Brown Hair"
-},
-{
-  "full_name": "Dylan Christopher Minnette",
-  "stage_name": "Dylan Minnette",
-  "height_cm": 173,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/gktjinmusf5iz331zjrj3/Dylan-Minnette.png?rlkey=4ut6a4t3yf2grf73kil2i8ykk&st=x1sixmmm&raw=1",
-  "dob": "1996-12-29",
-  "place_of_birth": "Evansville, Indiana, USA",
-  "most_known_for": "The Wallows (Band), 13 Reasons Why (Netflix), Scream (2022)",
-  "tags": "American, Actor, Singer, Netflix, Brown Hair"
-},
- {
+    "full_name": "Keneti James Fitzgerald Apa",
+    "stage_name": "KJ Apa",
+    "height_cm": 180,
+    "hair_color": "Red",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/mykb8iradz0instkpkugq/KJ-Apa.png?rlkey=q7mh6t3wkjxugx4suzp6b2qjf&st=4r7wtb2m&raw=1",
+    "dob": "1997-06-17",
+    "place_of_birth": "Auckland, New Zealand",
+    "most_known_for": "Riverdale (Archie Andrews)",
+    "tags": "New Zealander, Actor, Riverdale, Netflix, Redhead, jock, tortured_hero"
+  },
+  {
+    "full_name": "Sam Dezz",
+    "stage_name": "Sam Dezz",
+    "height_cm": 185,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/cbl6souyhmf61m0z7dzs3/Sam-Dezz.png?rlkey=gq0eqduczqlhxjlxx8i8oop9q&st=w126tfnn&raw=1",
+    "dob": "2001-12-05",
+    "place_of_birth": "California, USA",
+    "most_known_for": "TikTok, Instagram Modeling",
+    "tags": "American, Influencer, TikTok, Model, Blonde, golden_retriever, beach_boy"
+  },
+  {
+    "full_name": "Harris Dickinson",
+    "stage_name": "Harris Dickinson",
+    "height_cm": 183,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/pb06kbs6xna9l9ssvncvx/Harris-Dickinson.png?rlkey=ldacuw7wf8ao2njtv0jbqniyi&st=g2uwjb4l&raw=1",
+    "dob": "1996-06-24",
+    "place_of_birth": "London, England, UK",
+    "most_known_for": "The King's Man, Triangle of Sadness, Where the Crawdads Sing",
+    "tags": "British, Actor, Drama, Indie, Blonde, brooding_artist"
+  },
+  {
+    "full_name": "Jeremy Allen White",
+    "stage_name": "Jeremy Allen White",
+    "height_cm": 170,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/xiy5dbsk8c64md5nn5pny/Jeremy-Allen-White.png?rlkey=c6q83uctsbulc9rxs6ccevwz3&st=wxb99kcl&raw=1",
+    "dob": "1991-02-17",
+    "place_of_birth": "Brooklyn, New York, USA",
+    "most_known_for": "Shameless (Lip Gallagher), The Bear",
+    "tags": "American, Actor, Drama, Shameless, The Bear, Brown Hair, tortured_artist, grumpy"
+  },
+  {
+    "full_name": "Dylan Rhodes O'Brien",
+    "stage_name": "Dylan O'Brien",
+    "height_cm": 180,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/5kp4ni5uv53us21bcb9iu/Dylan-Obrien.png?rlkey=ayshktf8s7uni0okbz9v1cqt8&st=oy0tcojd&raw=1",
+    "dob": "1991-08-26",
+    "place_of_birth": "New York City, New York, USA",
+    "most_known_for": "Teen Wolf, The Maze Runner, Love and Monsters",
+    "tags": "American, Actor, Teen Wolf, Action, Brown Hair, sarcastic, best_friend"
+  },
+  {
+    "full_name": "Timothée Hal Chalamet",
+    "stage_name": "Timothée Chalamet",
+    "height_cm": 182,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/bolosgbxmltxryae72n3e/Timothee-Chalamet.png?rlkey=lu6y6h61ssgdfl8azemf3fl4b&st=uidp8m7h&raw=1",
+    "dob": "1995-12-27",
+    "place_of_birth": "New York City, New York, USA",
+    "most_known_for": "Call Me by Your Name, Dune, Little Women",
+    "tags": "American, Actor, Drama, Indie, Romance, Brown Hair, sensitive_artist, tortured_artist"
+  },
+  {
+    "full_name": "Robert Patrick Amell IV",
+    "stage_name": "Robbie Amell",
+    "height_cm": 183,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/g13u4vubbgu47nhh1fd7v/Robbie-Amell.png?rlkey=q9bt72jyu3ngmhogmtjeixydq&st=arlww8jg&raw=1",
+    "dob": "1988-04-21",
+    "place_of_birth": "Toronto, Ontario, Canada",
+    "most_known_for": "The Duff, Upload, The Flash",
+    "tags": "Canadian, Actor, Sci-Fi, Comedy, Brown Hair, golden_boy, boy_next_door"
+  },
+  {
+    "full_name": "Joshua Taylor Bassett",
+    "stage_name": "Joshua Bassett",
+    "height_cm": 180,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/t7ppctatzq19t9l3w85o3/Joshua-Basset.png?rlkey=i81zy4xncaz9ej1arvgnju48e&st=5tm0318b&raw=1",
+    "dob": "2000-12-22",
+    "place_of_birth": "Oceanside, California, USA",
+    "most_known_for": "High School Musical: The Musical: The Series",
+    "tags": "American, Actor, Singer, Disney+, Romance, Brown Hair, boy_next_door, musician"
+  },
+  {
+    "full_name": "Dylan Christopher Minnette",
+    "stage_name": "Dylan Minnette",
+    "height_cm": 173,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/gktjinmusf5iz331zjrj3/Dylan-Minnette.png?rlkey=4ut6a4t3yf2grf73kil2i8ykk&st=x1sixmmm&raw=1",
+    "dob": "1996-12-29",
+    "place_of_birth": "Evansville, Indiana, USA",
+    "most_known_for": "The Wallows (Band), 13 Reasons Why (Netflix), Scream (2022)",
+    "tags": "American, Actor, Singer, Netflix, Brown Hair, tortured_artist, musician"
+  },
+  {
     "full_name": "Zackary Arthur",
     "stage_name": "Zackary Arthur",
     "height_cm": 170,
@@ -657,7 +657,7 @@
     "dob": "2006-09-12",
     "place_of_birth": "Los Angeles, California, USA",
     "most_known_for": "Chucky (TV Series)",
-    "tags": "American, Actor, Horror, TV, Brown Hair"
+    "tags": "American, Actor, Horror, TV, Brown Hair, dark_past, tortured_artist"
   },
   {
     "full_name": "Dustin Wallace Milligan",
@@ -668,7 +668,7 @@
     "dob": "1985-07-28",
     "place_of_birth": "Yellowknife, Northwest Territories, Canada",
     "most_known_for": "Schitt's Creek, 90210",
-    "tags": "Canadian, Actor, Comedy, Brown Hair"
+    "tags": "Canadian, Actor, Comedy, Brown Hair, golden_boy, boy_next_door"
   },
   {
     "full_name": "Tye Kayle Sheridan",
@@ -679,204 +679,204 @@
     "dob": "1996-11-11",
     "place_of_birth": "Elkhart, Texas, USA",
     "most_known_for": "Ready Player One, X-Men series (Cyclops)",
-    "tags": "American, Actor, Sci-Fi, Superhero, Brown Hair"
+    "tags": "American, Actor, Sci-Fi, Superhero, Brown Hair, nerdy_love_interest, reluctant_hero"
   },
   {
-  "full_name": "Dominic Anthony Sherwood",
-  "stage_name": "Dominic Sherwood",
-  "height_cm": 180,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/m8vx7x7n6677pfqupxvwt/Dominic-Sherwood.png?rlkey=ho35fqo10wr39gfgcaqsgp7i6&st=0q28dxox&raw=1",
-  "dob": "1990-02-06",
-  "place_of_birth": "Kent, England, UK",
-  "most_known_for": "Shadowhunters, Vampire Academy",
-  "tags": "British, Actor, Fantasy, Brown Hair"
-},
+    "full_name": "Dominic Anthony Sherwood",
+    "stage_name": "Dominic Sherwood",
+    "height_cm": 180,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/m8vx7x7n6677pfqupxvwt/Dominic-Sherwood.png?rlkey=ho35fqo10wr39gfgcaqsgp7i6&st=0q28dxox&raw=1",
+    "dob": "1990-02-06",
+    "place_of_birth": "Kent, England, UK",
+    "most_known_for": "Shadowhunters, Vampire Academy",
+    "tags": "British, Actor, Fantasy, Brown Hair, tortured_hero, brooding"
+  },
+  {
+    "full_name": "Dylan Muse Sprayberry",
+    "stage_name": "Dylan Sprayberry",
+    "height_cm": 173,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/rpatyi92tqkk8r1sdg67j/Dylan-Sprayberry.png?rlkey=qdd3sk0iutg1n1cp45uw2uhkx&st=vy12c63p&raw=1",
+    "dob": "1998-07-07",
+    "place_of_birth": "Houston, Texas, USA",
+    "most_known_for": "Teen Wolf, Man of Steel (Young Clark Kent)",
+    "tags": "American, Actor, Superhero, Teen Drama, Brown Hair, jock, bad_boy"
+  },
+  {
+    "full_name": "Frederic Wilhelm C.J. Sjöström",
+    "stage_name": "Freddie Stroma",
+    "height_cm": 180,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/pef7qvfvi3682f1b6x3am/Freddie-Stroma.png?rlkey=3gmg6d8jt2ui0ibwcgb9g2pwk&st=sm6lwc48&raw=1",
+    "dob": "1987-01-08",
+    "place_of_birth": "London, England, UK",
+    "most_known_for": "Bridgerton, Peacemaker, Harry Potter",
+    "tags": "British, Actor, Fantasy, Comedy, Blonde, golden_boy, charming_rake"
+  },
+  {
+    "full_name": "George Clarke",
+    "stage_name": "George Clarke",
+    "height_cm": 180,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/zvppri69b12jw5ox3zwot/George-Clarke.png?rlkey=k36cbxlz03g0o0n54jwgkby5u&st=gnr77wyu&raw=1",
+    "dob": "1999-11-06",
+    "place_of_birth": "England, UK",
+    "most_known_for": "TikTok content creator known for storytelling and humor videos",
+    "tags": "British, Influencer, TikTok, Storyteller, Brown Hair, golden_retriever"
+  },
+  {
+    "full_name": "Thomas Grant Gustin",
+    "stage_name": "Grant Gustin",
+    "height_cm": 188,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/dh6tr89v6b4uke4tet3qv/Grant-Gustin.png?rlkey=1ocn1ptby3mdehxa9vuz6m5ub&st=a1fyglm2&raw=1",
+    "dob": "1990-01-14",
+    "place_of_birth": "Norfolk, Virginia, USA",
+    "most_known_for": "The Flash (CW), Glee",
+    "tags": "American, Actor, Superhero, TV, Brown Hair, boy_next_door, golden_boy"
+  },
+  {
+    "full_name": "Glen Thomas Powell Jr.",
+    "stage_name": "Glen Powell",
+    "height_cm": 183,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/he6t9pyb5qi7osqgedxt9/Glenn-Powell.png?rlkey=fezsklzd1ul08a79u4sgheo6k&st=yd2nj87v&raw=1",
+    "dob": "1988-10-21",
+    "place_of_birth": "Austin, Texas, USA",
+    "most_known_for": "Top Gun: Maverick, Anyone But You",
+    "tags": "American, Actor, Comedy, Action, Brown Hair, cocky_hero, jock"
+  },
+  {
+    "full_name": "Gregg Sulkin",
+    "stage_name": "Gregg Sulkin",
+    "height_cm": 178,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/arv800is2a1gmlaruyuck/Gregg-Sulkin.png?rlkey=t0wf46avt3nuz525ehiuevv43&st=ikuxuiqi&raw=1",
+    "dob": "1992-05-29",
+    "place_of_birth": "London, England, UK",
+    "most_known_for": "Wizards of Waverly Place, Runaways",
+    "tags": "British, Actor, Disney, Marvel, Brown Hair, charming_rake, flirty"
+  },
+  {
+    "full_name": "Jake Manley",
+    "stage_name": "Jake Manley",
+    "height_cm": 180,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/xuuxcbv7v81m3tsmxguxd/Jake-Manley.png?rlkey=aa9fwqij8qkbwn0upm3uuj9x8&st=dfm9o6sg&raw=1",
+    "dob": "1991-08-23",
+    "place_of_birth": "Oakville, Ontario, Canada",
+    "most_known_for": "The Order (Netflix), Holidate",
+    "tags": "Canadian, Actor, Netflix, Supernatural, Blonde, mysterious_loner, bad_boy"
+  },
 {
-  "full_name": "Dylan Muse Sprayberry",
-  "stage_name": "Dylan Sprayberry",
-  "height_cm": 173,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/rpatyi92tqkk8r1sdg67j/Dylan-Sprayberry.png?rlkey=qdd3sk0iutg1n1cp45uw2uhkx&st=vy12c63p&raw=1",
-  "dob": "1998-07-07",
-  "place_of_birth": "Houston, Texas, USA",
-  "most_known_for": "Teen Wolf, Man of Steel (Young Clark Kent)",
-  "tags": "American, Actor, Superhero, Teen Drama, Brown Hair"
-},
-{
-  "full_name": "Frederic Wilhelm C.J. Sjöström",
-  "stage_name": "Freddie Stroma",
-  "height_cm": 180,
-  "hair_color": "Blonde",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/pef7qvfvi3682f1b6x3am/Freddie-Stroma.png?rlkey=3gmg6d8jt2ui0ibwcgb9g2pwk&st=sm6lwc48&raw=1",
-  "dob": "1987-01-08",
-  "place_of_birth": "London, England, UK",
-  "most_known_for": "Bridgerton, Peacemaker, Harry Potter",
-  "tags": "British, Actor, Fantasy, Comedy, Blonde"
-},
-{
-  "full_name": "George Clarke",
-  "stage_name": "George Clarke",
-  "height_cm": 180,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/zvppri69b12jw5ox3zwot/George-Clarke.png?rlkey=k36cbxlz03g0o0n54jwgkby5u&st=gnr77wyu&raw=1",
-  "dob": "1999-11-06",
-  "place_of_birth": "England, UK",
-  "most_known_for": "TikTok content creator known for storytelling and humor videos",
-  "tags": "British, Influencer, TikTok, Storyteller, Brown Hair"
-},
-{
-  "full_name": "Thomas Grant Gustin",
-  "stage_name": "Grant Gustin",
-  "height_cm": 188,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/dh6tr89v6b4uke4tet3qv/Grant-Gustin.png?rlkey=1ocn1ptby3mdehxa9vuz6m5ub&st=a1fyglm2&raw=1",
-  "dob": "1990-01-14",
-  "place_of_birth": "Norfolk, Virginia, USA",
-  "most_known_for": "The Flash (CW), Glee",
-  "tags": "American, Actor, Superhero, TV, Brown Hair"
-},
-{
-  "full_name": "Glen Thomas Powell Jr.",
-  "stage_name": "Glen Powell",
-  "height_cm": 183,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/he6t9pyb5qi7osqgedxt9/Glenn-Powell.png?rlkey=fezsklzd1ul08a79u4sgheo6k&st=yd2nj87v&raw=1",
-  "dob": "1988-10-21",
-  "place_of_birth": "Austin, Texas, USA",
-  "most_known_for": "Top Gun: Maverick, Anyone But You",
-  "tags": "American, Actor, Comedy, Action, Brown Hair"
-},
-{
-  "full_name": "Gregg Sulkin",
-  "stage_name": "Gregg Sulkin",
-  "height_cm": 178,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/arv800is2a1gmlaruyuck/Gregg-Sulkin.png?rlkey=t0wf46avt3nuz525ehiuevv43&st=ikuxuiqi&raw=1",
-  "dob": "1992-05-29",
-  "place_of_birth": "London, England, UK",
-  "most_known_for": "Wizards of Waverly Place, Runaways",
-  "tags": "British, Actor, Disney, Marvel, Brown Hair"
-},
-{
-  "full_name": "Jake Manley",
-  "stage_name": "Jake Manley",
-  "height_cm": 180,
-  "hair_color": "Blonde",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/xuuxcbv7v81m3tsmxguxd/Jake-Manley.png?rlkey=aa9fwqij8qkbwn0upm3uuj9x8&st=dfm9o6sg&raw=1",
-  "dob": "1991-08-23",
-  "place_of_birth": "Oakville, Ontario, Canada",
-  "most_known_for": "The Order (Netflix), Holidate",
-  "tags": "Canadian, Actor, Netflix, Supernatural, Blonde"
-},
-{
-  "full_name": "Kit Sebastian Connor",
-  "stage_name": "Kit Connor",
-  "height_cm": 180,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/35mrdxdvxu0q2bzyix5t6/Kit-Connor.png?rlkey=4509gslsx5oi3h76i36x1km6x&st=xqrf44cv&raw=1",
-  "dob": "2004-03-08",
-  "place_of_birth": "London, England, UK",
-  "most_known_for": "Heartstopper (Netflix)",
-  "tags": "British, Actor, LGBTQ+, Netflix, Brown Hair"
-},
-{
-  "full_name": "Leo Vincent Woodall",
-  "stage_name": "Leo Woodall",
-  "height_cm": 183,
-  "hair_color": "Blonde",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/jr2aiuw8cb2s80gqljp0x/Leo-Woodall.png?rlkey=qlnvlgtydwonp59vz89znuov4&st=8o59zw3x&raw=1",
-  "dob": "1996-09-14",
-  "place_of_birth": "London, England, UK",
-  "most_known_for": "The White Lotus (HBO), One Day (Netflix)",
-  "tags": "British, Actor, Drama, TV, Blonde Hair"
-},
-{
-  "full_name": "Liam Hemsworth",
-  "stage_name": "Liam Hemsworth",
-  "height_cm": 191,
-  "hair_color": "Blonde",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/bwjgy44lkqqgqbcny305e/Liam-Hemsworth.png?rlkey=2x5ox1s6wg7jafgbzmsqqqbrp&st=rioe0qzm&raw=1",
-  "dob": "1990-01-13",
-  "place_of_birth": "Melbourne, Victoria, Australia",
-  "most_known_for": "The Hunger Games series",
-  "tags": "Australian, Actor, Action, Blonde"
-},
-{
-  "full_name": "Marcelo Hernandez",
-  "stage_name": "Marcelo Hernandez",
-  "height_cm": 175,
-  "hair_color": "Black",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/6ijgdronc1e2ohofwoma0/Marcello-Hernandez.png?rlkey=y3q7dlwjip5cmu9by1chu76rj&st=kb2v9uwb&raw=1",
-  "dob": "1997-08-19",
-  "place_of_birth": "Miami, Florida, USA",
-  "most_known_for": "Saturday Night Live (SNL)",
-  "tags": "American, Comedian, SNL, Latino, Black Hair"
-},
-{
-  "full_name": "Michael Provost",
-  "stage_name": "Michael Provost",
-  "height_cm": 175,
-  "hair_color": "Blonde",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/zewo3ngrdat22si6cqler/Micheal-Provost.png?rlkey=d91g3qmjd28k9dlnukatvr0s7&st=llstr158&raw=1",
-  "dob": "1998-01-24",
-  "place_of_birth": "Atlanta, Georgia, USA",
-  "most_known_for": "Insatiable (Netflix)",
-  "tags": "American, Actor, Netflix, Comedy, Blonde"
-},
-{
-  "full_name": "Nicholas Caradoc Hoult",
-  "stage_name": "Nicholas Hoult",
-  "height_cm": 190,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/84sqx8uey34y3l7ulf2q5/Nicholas-Hoult.png?rlkey=fuekd1ugd0eemrwov56gra5ro&st=rawb1xih&raw=1",
-  "dob": "1989-12-07",
-  "place_of_birth": "Wokingham, Berkshire, England, UK",
-  "most_known_for": "The Great, X-Men series, Warm Bodies",
-  "tags": "British, Actor, Superhero, Drama, Brown Hair"
-},
-{
-  "full_name": "Percy Hynes White",
-  "stage_name": "Percy Hynes White",
-  "height_cm": 188,
-  "hair_color": "Blonde",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/4uzh9kv55ju30kgsb0qrd/Percy-Hynes-White.png?rlkey=diehdg8f857brpc5qxfjcbmg0&st=akfxis0h&raw=1",
-  "dob": "2001-10-08",
-  "place_of_birth": "St. John's, Newfoundland, Canada",
-  "most_known_for": "Wednesday (Netflix), The Gifted",
-  "tags": "Canadian, Actor, Netflix, Supernatural, Blonde Hair"
-},
-{
-  "full_name": "Robert Douglas Thomas Pattinson",
-  "stage_name": "Robert Pattinson",
-  "height_cm": 185,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/hc56zrbpic44e59okbnl3/Robert-Pattinson.png?rlkey=7igjqwxg0t4o7lyhbi77o5vqb&st=id3qimy8&raw=1",
-  "dob": "1986-05-13",
-  "place_of_birth": "London, England, UK",
-  "most_known_for": "The Batman, Twilight series, Tenet",
-  "tags": "British, Actor, Superhero, Drama, Brown Hair"
-},
-{
-  "full_name": "Shia Saide LaBeouf",
-  "stage_name": "Shia LaBeouf",
-  "height_cm": 176,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/9vrbc81zmqes3ugmuwfpu/Shia-Lebeouf.png?rlkey=ysn2tdkv2nt033cb36rqne5xu&st=6m6kxye7&raw=1",
-  "dob": "1986-06-11",
-  "place_of_birth": "Los Angeles, California, USA",
-  "most_known_for": "Transformers series, Honey Boy, Holes",
-  "tags": "American, Actor, Director, Drama, Brown Hair"
-},
-{
-  "full_name": "Thomas Stanley Holland",
-  "stage_name": "Tom Holland",
-  "height_cm": 173,
-  "hair_color": "Brown",
-  "bookmark_image_url": "https://www.dropbox.com/scl/fi/w9hyk6tuxb7otct8z7u6x/Tom-Holland.png?rlkey=8iz80yyxazz6p5yba1168c889&st=o9zjqhcm&raw=1",
-  "dob": "1996-06-01",
-  "place_of_birth": "London, England, UK",
-  "most_known_for": "Spider-Man (MCU), The Impossible, Uncharted",
-  "tags": "British, Actor, Marvel, Superhero, Brown Hair"
-}
+    "full_name": "Kit Sebastian Connor",
+    "stage_name": "Kit Connor",
+    "height_cm": 180,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/35mrdxdvxu0q2bzyix5t6/Kit-Connor.png?rlkey=4509gslsx5oi3h76i36x1km6x&st=xqrf44cv&raw=1",
+    "dob": "2004-03-08",
+    "place_of_birth": "London, England, UK",
+    "most_known_for": "Heartstopper (Netflix)",
+    "tags": "British, Actor, LGBTQ+, Netflix, Brown Hair, golden_retriever, boy_next_door"
+  },
+  {
+    "full_name": "Leo Vincent Woodall",
+    "stage_name": "Leo Woodall",
+    "height_cm": 183,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/jr2aiuw8cb2s80gqljp0x/Leo-Woodall.png?rlkey=qlnvlgtydwonp59vz89znuov4&st=8o59zw3x&raw=1",
+    "dob": "1996-09-14",
+    "place_of_birth": "London, England, UK",
+    "most_known_for": "The White Lotus (HBO), One Day (Netflix)",
+    "tags": "British, Actor, Drama, TV, Blonde Hair, charming_rake, golden_boy"
+  },
+  {
+    "full_name": "Liam Hemsworth",
+    "stage_name": "Liam Hemsworth",
+    "height_cm": 191,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/bwjgy44lkqqgqbcny305e/Liam-Hemsworth.png?rlkey=2x5ox1s6wg7jafgbzmsqqqbrp&st=rioe0qzm&raw=1",
+    "dob": "1990-01-13",
+    "place_of_birth": "Melbourne, Victoria, Australia",
+    "most_known_for": "The Hunger Games series",
+    "tags": "Australian, Actor, Action, Blonde, protective_hero, jock"
+  },
+  {
+    "full_name": "Marcelo Hernandez",
+    "stage_name": "Marcelo Hernandez",
+    "height_cm": 175,
+    "hair_color": "Black",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/6ijgdronc1e2ohofwoma0/Marcello-Hernandez.png?rlkey=y3q7dlwjip5cmu9by1chu76rj&st=kb2v9uwb&raw=1",
+    "dob": "1997-08-19",
+    "place_of_birth": "Miami, Florida, USA",
+    "most_known_for": "Saturday Night Live (SNL)",
+    "tags": "American, Comedian, SNL, Latino, Black Hair, funny_guy, class_clown"
+  },
+  {
+    "full_name": "Michael Provost",
+    "stage_name": "Michael Provost",
+    "height_cm": 175,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/zewo3ngrdat22si6cqler/Micheal-Provost.png?rlkey=d91g3qmjd28k9dlnukatvr0s7&st=llstr158&raw=1",
+    "dob": "1998-01-24",
+    "place_of_birth": "Atlanta, Georgia, USA",
+    "most_known_for": "Insatiable (Netflix)",
+    "tags": "American, Actor, Netflix, Comedy, Blonde, misunderstood, jock"
+  },
+  {
+    "full_name": "Nicholas Caradoc Hoult",
+    "stage_name": "Nicholas Hoult",
+    "height_cm": 190,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/84sqx8uey34y3l7ulf2q5/Nicholas-Hoult.png?rlkey=fuekd1ugd0eemrwov56gra5ro&st=rawb1xih&raw=1",
+    "dob": "1989-12-07",
+    "place_of_birth": "Wokingham, Berkshire, England, UK",
+    "most_known_for": "The Great, X-Men series, Warm Bodies",
+    "tags": "British, Actor, Superhero, Drama, Brown Hair, grumpy, tortured_hero"
+  },
+  {
+    "full_name": "Percy Hynes White",
+    "stage_name": "Percy Hynes White",
+    "height_cm": 188,
+    "hair_color": "Blonde",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/4uzh9kv55ju30kgsb0qrd/Percy-Hynes-White.png?rlkey=diehdg8f857brpc5qxfjcbmg0&st=akfxis0h&raw=1",
+    "dob": "2001-10-08",
+    "place_of_birth": "St. John's, Newfoundland, Canada",
+    "most_known_for": "Wednesday (Netflix), The Gifted",
+    "tags": "Canadian, Actor, Netflix, Supernatural, Blonde Hair, mysterious_loner, brooding"
+  },
+  {
+    "full_name": "Robert Douglas Thomas Pattinson",
+    "stage_name": "Robert Pattinson",
+    "height_cm": 185,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/hc56zrbpic44e59okbnl3/Robert-Pattinson.png?rlkey=7igjqwxg0t4o7lyhbi77o5vqb&st=id3qimy8&raw=1",
+    "dob": "1986-05-13",
+    "place_of_birth": "London, England, UK",
+    "most_known_for": "The Batman, Twilight series, Tenet",
+    "tags": "British, Actor, Superhero, Drama, Brown Hair, tortured_hero, brooding"
+  },
+  {
+    "full_name": "Shia Saide LaBeouf",
+    "stage_name": "Shia LaBeouf",
+    "height_cm": 176,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/9vrbc81zmqes3ugmuwfpu/Shia-Lebeouf.png?rlkey=ysn2tdkv2nt033cb36rqne5xu&st=6m6kxye7&raw=1",
+    "dob": "1986-06-11",
+    "place_of_birth": "Los Angeles, California, USA",
+    "most_known_for": "Transformers series, Honey Boy, Holes",
+    "tags": "American, Actor, Director, Drama, Brown Hair, bad_boy, rebel"
+  },
+  {
+    "full_name": "Thomas Stanley Holland",
+    "stage_name": "Tom Holland",
+    "height_cm": 173,
+    "hair_color": "Brown",
+    "bookmark_image_url": "https://www.dropbox.com/scl/fi/w9hyk6tuxb7otct8z7u6x/Tom-Holland.png?rlkey=8iz80yyxazz6p5yba1168c889&st=o9zjqhcm&raw=1",
+    "dob": "1996-06-01",
+    "place_of_birth": "London, England, UK",
+    "most_known_for": "Spider-Man (MCU), The Impossible, Uncharted",
+    "tags": "British, Actor, Marvel, Superhero, Brown Hair, golden_retriever, boy_next_door"
+  }
 ]
